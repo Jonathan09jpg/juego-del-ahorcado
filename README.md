@@ -1,6 +1,7 @@
 # 🎮 Juego Del Ahorcado
 
-> **Proyecto Integrador Fundamentos de Programación** 
+> **Proyecto Integrador Fundamentos de Programación**
+> 
 > **Estudiante:** Jonathan Quezada Miguez  
 > **Fecha:** Junio 2026
 
