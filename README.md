@@ -83,6 +83,3 @@ juego-del-ahorcado/
 
 Este proyecto demuestra cómo la programación puede aplicarse al entretenimiento educativo. Un juego como El Ahorcado puede usarse en aulas para reforzar vocabulario técnico de manera interactiva, mostrando el impacto positivo de la tecnología en la educación.
 
----
-
-*Proyecto desarrollado como entrega final del curso — Semana 8*
