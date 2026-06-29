@@ -1,6 +1,6 @@
-# 🎮 El Ahorcado — Juego en Python
+# 🎮 Juego Del Ahorcado
 
-> Proyecto Integrador — Fundamentos de Programación  
+> **Proyecto Integrador Fundamentos de Programación** 
 > **Estudiante:** Jonathan Quezada Miguez  
 > **Fecha:** Junio 2026
 
@@ -46,9 +46,7 @@ juego-del-ahorcado/
 
 ## 🐍 Tecnologías utilizadas
 
-- **Lenguaje:** Python 3
-- **Librería:** `random` (módulo estándar de Python)
-- **Entorno:** Consola / Terminal
+- **Lenguaje:** Python 
 - **Control de versiones:** Git + GitHub
 
 ---
