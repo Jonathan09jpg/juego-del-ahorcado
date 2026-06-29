@@ -1,14 +1,14 @@
-El Ahorcado — Juego en Python
+# 🎮 El Ahorcado — Juego en Python
 
 **Proyecto Integrador Fundamentos de Programación**
 > **Estudiante:** Jonathan Quezada Miguez  
 > **Fecha:** Junio 2026
 
-**Objetivo del sistema**
+## 📌 Objetivo del sistem
 
 Desarrollar un juego interactivo de "El Ahorcado" en Python que permita al usuario adivinar palabras relacionadas con la programación, aplicando los conceptos fundamentales aprendidos durante el curso: estructuras condicionales, bucles, listas y entrada/salida de datos.
 
-**Descripción del proyecto**
+## 📋 Descripción del proyecto
 
 El programa selecciona aleatoriamente una palabra del mundo de la informática y le proporciona al jugador una pista para adivinarla letra por letra. El jugador tiene un máximo de **6 intentos** antes de que el ahorcado quede completo. Al final de cada partida, el usuario puede optar por jugar nuevamente.
 
@@ -41,8 +41,7 @@ juego-del-ahorcado/
 
 ## 🐍 Tecnologías utilizadas
 
-- **Lenguaje:** Python 3
-- **Librería:** `random` (módulo estándar de Python)
+- **Lenguaje:** Python
 - **Entorno:** Consola / Terminal
 - **Control de versiones:** Git + GitHub
 
@@ -68,10 +67,10 @@ juego-del-ahorcado/
 
 ## 🧠 Contenidos de la asignatura aplicados
 
-- **Unidad 1:** Análisis del problema y diseño de diagramas de funcionalidad y arquitectura
-- **Unidad 2:** Configuración del entorno de desarrollo (GitHub, Python)
-- **Unidad 3:** Implementación con estructuras lógicas (`if`, `while`, `for`) y manejo de listas
-- **Unidad 4:** Técnicas de programación funcional, comentarios en el código y revisión entre pares
+- **Unidad 1:** Introducción a la Resolución de Problemas y al Entorno de Programación
+- **Unidad 2:** Entorno de Programación
+- **Unidad 3:** Lógica de Programación
+- **Unidad 4:** Estructura de Datos y Funciones
 
 ---
 
